@@ -1,8 +1,6 @@
 from numbers import Number
 from numbers import Integral
 
-from black import re
-
 
 class Polynomial:
 
